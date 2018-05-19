@@ -7,6 +7,6 @@
     $brew doctor
     Your system is ready to brew
 3. 开始安装 Pygame
-    $brew install hg sdl sdl_image_sdl_ttf
-    $brew install sdl_mixer_protmidi
+    $brew install hg sdl sdl_image_sdl_ttf<\n>
+    $brew install sdl_mixer_protmidi<\n>
     $pip3 install --user hg+http://bitbucket.org/pygame/pygame
